@@ -1,2 +1,4 @@
-# 551_project
-Fighting!
+# 507 project
+Plant seedling classification project
+Group member: Yueyang Zhang, Jingyan Lu and Zixuan Lu
+
